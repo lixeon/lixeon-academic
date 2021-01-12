@@ -28,19 +28,19 @@ education:
   courses:
   - course: PhD Candidate in Cyber Security
     institution: IIE，CAS
-    year: 2020 - 2025
+    year: 北京
   - course: BSc in Software Engineering
     institution: Yangzhou University
-    year: 2015 - 2019
+    year: 江苏·扬州
   - course: High School
     institution: Jiangsu Xiting High School
-    year: 2012 -2015
+    year: 江苏·南通
   - course: High School
     institution: Pingchao Middle School
-    year: 2009 -2012
+    year: 江苏·南通
   - course: High School
     institution: Pingchao Primary School
-    year: 2003 -2009
+    year: 江苏·南通
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
