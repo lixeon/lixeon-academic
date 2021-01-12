@@ -1,22 +1,12 @@
 ---
 title: 我的中国梦
 date: 2013-10-05T18:00:00+09:00
-description: 我的中国梦 高二征文 2013
-draft: false
-hideToc: false
-author: Li Jing
-authorEmoji: 🤖
+summary: 我的中国梦 高二征文 2013
 tags:
 - markdown
 - css
 - html
 - themes
-categories:
-- themes
-- syntax
-series:
-- Themes Guide
-image: images/feature1/markdown.png
 ---
 我的中国梦
    每个人都有一个属于自己的，平凡，而伟大的梦想，都有自己对未来的追求。虽然这一个个梦都十分渺小，但千千万万个人的梦想加起来，就汇成了一个伟大的中国梦。

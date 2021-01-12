@@ -1,22 +1,12 @@
 ---
 title: 浅谈隋唐英雄传奇李靖
 date: 2016-12-07T18:00:00+09:00
-description: 隋唐文化史 大二课程 读书报告
-draft: false
-hideToc: false
-author: Li Jing
-authorEmoji: 🤖
+summary: 隋唐文化史 大二课程 读书报告
 tags:
 - markdown
 - css
 - html
 - themes
-categories:
-- themes
-- syntax
-series:
-- Themes Guide
-image: images/feature1/markdown.png
 ---
 浅谈隋唐英雄传奇李靖
 信息工程学院 软件1502 李敬

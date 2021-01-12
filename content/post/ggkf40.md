@@ -1,22 +1,12 @@
 ---
 title: 改革开放四十年 网络强国中国梦
 date: 2018-06-25T22:10:00+09:00
-description: 金庸文化 大二课程 读书报告
-draft: false
-hideToc: false
-author: Li Jing
-authorEmoji: 🤖
+summary: 金庸文化 大二课程 读书报告
 tags:
 - markdown
 - css
 - html
 - themes
-categories:
-- themes
-- syntax
-series:
-- Themes Guide
-image: images/feature1/markdown.png
 ---
 改革开放四十年 网络强国中国梦
 李敬

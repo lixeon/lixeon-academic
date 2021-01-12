@@ -1,22 +1,12 @@
 ---
 title: 湄公河——血性中国人
 date: 2016-11-05T18:00:00+09:00
-description: 《湄公河》观后感
-draft: false
-hideToc: false
-author: Li Jing
-authorEmoji: 🤖
+summary: 《湄公河》观后感
 tags:
 - markdown
 - css
 - html
 - themes
-categories:
-- themes
-- syntax
-series:
-- Themes Guide
-image: images/feature1/markdown.png
 ---
 湄公河——血性中国人
 香港导演林超贤继《激战》后，黑马大作《湄公河行动》点燃国人激情斗志。《湄公河行动》宣告世界，“犯我中华者，虽远必诛”。上映前海报上的“血性报国”完美诠释了中华儿女无畏黑暗的硬汉气魄。预告片生猛火爆、特效细腻以及强节奏感和代入感，不逊欧美大片。首映看完后，酣畅淋漓，可称2016年度最佳大作。

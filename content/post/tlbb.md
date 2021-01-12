@@ -1,22 +1,12 @@
 ---
 title: 《天龙八部》与宿命论
 date: 2017-06-04T18:00:00+09:00
-description: 金庸文化 大二课程 读书报告
-draft: false
-hideToc: false
-author: Li Jing
-authorEmoji: 🤖
+summary: 金庸文化 大二课程 读书报告
 tags:
 - markdown
 - css
 - html
 - themes
-categories:
-- themes
-- syntax
-series:
-- Themes Guide
-image: images/feature1/markdown.png
 ---
 《天龙八部》与宿命论
 信息工程学院 软件1502 李敬

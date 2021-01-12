@@ -1,22 +1,12 @@
 ---
 title: 中国智能制造
 date: 2016-01-23T18:00:00+09:00
-description: 计算机导论 大一课程 读书报告
-draft: false
-hideToc: false
-author: Li Jing
-authorEmoji: 🤖
+summary: 计算机导论 大一课程 读书报告
 tags:
 - markdown
 - css
 - html
 - themes
-categories:
-- themes
-- syntax
-series:
-- Themes Guide
-image: images/feature1/markdown.png
 ---
 
 中国智能制造

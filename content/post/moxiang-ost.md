@@ -1,14 +1,7 @@
 ---
-author: "LiJing"
 title: "小众网游《墨香》背景音乐OST合集"
 date: 2018-08-26T12:00:06+09:00
-description: "2004年公测幻想武侠网游墨香"
-draft: false
-hideToc: false
-enableToc: true
-enableTocContent: false
-author: LiJing
-authorEmoji: 👻
+summary: "2004年公测幻想武侠网游墨香"
 tags: 
 - game
 - netlife

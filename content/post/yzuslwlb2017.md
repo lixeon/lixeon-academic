@@ -1,22 +1,12 @@
 ---
 title: 2017年社联第一次全体大会网络部工作报告
 date: 2017-03-12T18:00:00+09:00
-description: 扬州大学信息工程学院 社团联合会 学生工作报告
-draft: false
-hideToc: false
-author: Li Jing
-authorEmoji: 🤖
+summary: 扬州大学信息工程学院 社团联合会 学生工作报告
 tags:
 - markdown
 - css
 - html
 - themes
-categories:
-- themes
-- syntax
-series:
-- Themes Guide
-image: images/feature1/markdown.png
 ---
 我很高兴能够代表社联网络部给各位社联人作工作报告，希望大家能够给予意见和建议。
 2016年，是社联脱胎换骨的一年，社联融入了许多新鲜血液，网络部也招纳了十位鲜肉。第一学期的工作我们面临了多重困难和严峻挑战，在孟寒大大的领导下以及大家的共同努力，加强学习，及时改正，开拓进取，攻坚克难，稳中有好，学期初定的计划基本完成，并改革创新、多方合作，为本学期以及下一届的发展开辟了一条路。

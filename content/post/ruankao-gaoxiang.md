@@ -1,14 +1,7 @@
 ---
-author: "LiJing"
 title: "95后半个月自学一次49/57/47优雅通过高项心得分享"
 date: 2017-11-02T12:00:06+09:00
-description: "国家专业职业资格"
-draft: false
-hideToc: false
-enableToc: true
-enableTocContent: false
-author: LiJing
-authorEmoji: 👻
+summary: "国家专业职业资格"
 tags: 
 - 考证
 - other

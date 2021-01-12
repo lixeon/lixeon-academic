@@ -2,13 +2,7 @@
 author: "Li Jing"
 title: "我的“喊麦语音”史"
 date: 2020-04-20T12:00:06+09:00
-description: "喊麦"
-draft: false
-hideToc: false
-enableToc: true
-enableTocContent: false
-author: LiJing
-authorEmoji: 👻
+summary: "喊麦"
 tags: 
 - netlife
 - other

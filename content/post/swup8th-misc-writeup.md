@@ -1,14 +1,6 @@
 ---
-author: "Li Jing"
 title: "SWPU 第八届CTF Web社工题Write Up"
 date: 2017-11-06T12:00:06+09:00
-description: "ctf"
-draft: false
-hideToc: false
-enableToc: true
-enableTocContent: true
-author: LiJing
-authorEmoji: 👻
 tags: 
 - ctf
 - misc

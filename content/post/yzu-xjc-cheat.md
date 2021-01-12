@@ -2,13 +2,7 @@
 author: "82Flex"
 title: "新锦成就业创业教育平台视频观看时长自动化方法 - From 82Flex"
 date: 2017-09-24T12:00:06+09:00
-description: "扬州大学新锦成自动化学习方法"
-draft: false
-hideToc: false
-enableToc: true
-enableTocContent: true
-author: LiJing
-authorEmoji: 👻
+summary: "扬州大学新锦成自动化学习方法"
 tags: 
 - yzu
 - sec
