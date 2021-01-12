@@ -1,39 +1,46 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 李敬 Jing Li (lixeon)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Computer Architecture Security PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: IIE,Chinese Academy of Science
+  url: https://www.iie.ac.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
+- Mircoarchitecture Security
+- Computer Architecture
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Hardware Security
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD Candidate in Cyber Security
+    institution: IIE，CAS
+    year: 2020 - 2025
+  - course: BSc in Software Engineering
+    institution: Yangzhou University
+    year: 2015 - 2019
+  - course: High School
+    institution: Jiangsu Xiting High School
+    year: 2012 -2015
+  - course: High School
+    institution: Pingchao Middle School
+    year: 2009 -2012
+  - course: High School
+    institution: Pingchao Primary School
+    year: 2003 -2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,19 +49,14 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  link: mailto:lixeon.lij@gmail.com
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/lixeon
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
