@@ -10,7 +10,7 @@ headless: true
 weight: 70
 
 title: 'Recent & Upcoming Talks'
-subtitle:
+subtitle: 吹过的牛（不是
 
 content:
   # Page type to display. E.g. post, event, publication...
