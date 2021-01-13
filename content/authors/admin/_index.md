@@ -58,12 +58,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/lixeon
-- icon: weixin
-  icon_pack: fa
-  link: lijing394
-- icon: mobile
-  icon_pack: fa
-  link: tel:(86) 188-0527-7553
+# - icon: weixin
+#   icon_pack: fa
+#   link: lijing394
+# - icon: mobile
+#   icon_pack: fa
+#   link: tel:(86) 188-0527-7553
 
 
 # Link to a PDF of your resume/CV.
