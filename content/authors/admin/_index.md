@@ -12,8 +12,8 @@ role: Computer Architecture Security PhD Candidate
 organizations:
 - name: IIE,Chinese Academy of Science
   url: https://www.iie.ac.cn/
-- name: University of Chinese Academy of Science
-  url: https://ucas.ac.cn/
+# - name: University of Chinese Academy of Science
+#   url: https://ucas.ac.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 一只即将头秃的计算机体系结构安全PhD候选，My research interests include Computer Architecture, Microarchitecture Security and so on.
@@ -58,12 +58,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/lixeon
-# - icon: weixin
-#   icon_pack: fa
-#   link: lijing394
-# - icon: mobile
-#   icon_pack: fa
-#   link: tel:(86) 188-0527-7553
+- icon: weixin
+  icon_pack: fa
+  link: lijing394
+- icon: mobile
+  icon_pack: fa
+  link: tel:(86) 188-0527-7553
 
 
 # Link to a PDF of your resume/CV.
@@ -80,7 +80,7 @@ email: ""
 highlight_name: false
 ---
 
-大家好，我叫李敬，欢迎光临我的博客。目前就读于中国科学院大学，在中国科学院信息工程研究所培养，是一名即将头秃的计算机体系结构安全方向的博士候选研究生。这里将会记录我的日常随笔、科研报告等内容，欢迎志同道合的小伙伴联系我一起交流，也期待老师们斧正存在的错误内容。
+大家好，我叫李敬，欢迎光临我的博客。目前就读于中国科学院大学，在中国科学院信息工程研究所培养，是一名即将头秃的计算机体系结构安全方向的博士候选研究生。这里将会记录我的日常随笔、科研报告等内容，欢迎志同道合的小伙伴联系我一起交流，也期待老师们斧正错误内容。
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
