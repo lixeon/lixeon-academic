@@ -79,11 +79,9 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-大家好，我叫李敬，欢迎光临我的博客。目前就读于中国科学院大学，在中国科学院信息工程研究所培养，是一名即将头秃的计算机体系结构安全方向的博士候选研究生。这里将会记录我的日常随笔、科研报告等内容，欢迎志同道合的小伙伴联系我一起交流，也期待老师们斧正错误内容。
+<!-- 
+大家好，我叫李敬，欢迎光临我的博客。目前就读于中国科学院大学，在中国科学院信息工程研究所培养，是一名即将头秃的计算机体系结构安全方向的博士候选研究生。这里将会记录我的日常随笔、科研报告等内容，欢迎志同道合的小伙伴联系我一起交流，也期待老师们斧正错误内容。 -->
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
