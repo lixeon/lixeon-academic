@@ -14,14 +14,14 @@ baseurl = "https://lixeon.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy 2016 - {year}, 苏ICP备15042323号-3"
+copyright = "Copyright &copy; `2016 - {year}` 李敬, 苏ICP备15042323号-3"
 
 ############################
 ## Advanced options below ##
 ############################
 
 # Get last modified date for content from Git?
-enableGitInfo = true
+enableGitInfo = false
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -69,7 +69,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 [imaging]
   resampleFilter = "lanczos"
-  quality = 75
+  quality = 100
   anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
 
 # Taxonomies.

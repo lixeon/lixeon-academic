@@ -2,7 +2,7 @@
 author: "Li Jing"
 title: "我的“喊麦语音”史"
 date: 2020-04-20T12:00:06+09:00
-summary: "喊麦"
+summary: " "
 tags: 
 - netlife
 - other
