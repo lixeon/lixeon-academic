@@ -1,19 +1,18 @@
 ---
-title: "小众网游《墨香》背景音乐OST合集"
+title: "小众网游《墨香》背景音乐OST"
 date: 2018-08-26T12:00:06+09:00
 summary: "2004年公测幻想武侠网游墨香"
 tags: 
 - game
 - netlife
-- other
 ---
 
 
-由于许多人需要《墨香》游戏的原声背景音乐，故本人特此将所搜集的新老版本各时期的游戏背景音乐放送如下。
+&emsp;&emsp;由于许多人需要《墨香》游戏的原声背景音乐，故本人特此将所搜集的新老版本各时期的游戏背景音乐放送如下。
 
-打包下载地址：[墨香OST](https://obs-c9ab.obs.cn-north-1.myhuaweicloud.com:443/music/%E5%A2%A8%E9%A6%99OST.7z)
+&emsp;&emsp;打包下载地址：[墨香OST](https://obs-c9ab.obs.cn-north-1.myhuaweicloud.com:443/music/%E5%A2%A8%E9%A6%99OST.7z)
 
-如有不全和遗漏，可留言回复。
+&emsp;&emsp;如有不全和遗漏，可邮件联系。
 
 [https://obs-c9ab.obs.cn-north-1.myhuaweicloud.com:443/music/%E5%A2%A8%E9%A6%99OST/BG_Town%20%E7%B9%81%E5%8D%8E%E8%BF%B7%E6%A2%A6%20%E6%82%A0%E6%89%AC%E8%88%92%E7%BC%93.mp3?AWSAccessKeyId=fzvRask0qf0WEMPbrC8E&Expires=1587394319&response-content-disposition=inline&Signature=zncLEWeRFnYNf4El7piN9TkxEnc%3D](https://obs-c9ab.obs.cn-north-1.myhuaweicloud.com:443/music/%E5%A2%A8%E9%A6%99OST/BG_Town%20%E7%B9%81%E5%8D%8E%E8%BF%B7%E6%A2%A6%20%E6%82%A0%E6%89%AC%E8%88%92%E7%BC%93.mp3?AWSAccessKeyId=fzvRask0qf0WEMPbrC8E&Expires=1587394319&response-content-disposition=inline&Signature=zncLEWeRFnYNf4El7piN9TkxEnc%3D)
 

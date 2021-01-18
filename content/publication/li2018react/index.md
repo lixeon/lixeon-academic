@@ -17,28 +17,28 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2018-05-26T00:00:00Z"
+date: "2018-05-26T00:00:00+0800"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-01-12T00:00:00Z"
+publishDate: "2021-01-12T00:00:00+0800"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *电脑知识与技术 2018 Vol.14 No.27*
+publication_short: In *电脑知识与技术*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 该文使用React Native框架开发跨平台移动应用学教在线一站式服务平台。配套有教师、学生、学工三端，后端采用 Node.JS + Express实现。系统实现校园业务整合，消除数据孤岛，打通学情分析，提高学生工作管理水平。
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 该文使用React Native框架开发跨平台移动应用学教在线一站式服务平台。配套有教师、学生、学工三端，后端采用 Node.JS + Express实现。系统实现校园业务整合，消除数据孤岛，打通学情分析，提高学生工作管理水平。
 
-tags: []
+tags: [react, edu]
 
 # Display this page in the Featured widget?
 featured: true
@@ -48,21 +48,21 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# url_pdf: ''
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#   focal_point: ""
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -70,7 +70,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+- yzustudyonline
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -83,9 +83,3 @@ slides: example
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

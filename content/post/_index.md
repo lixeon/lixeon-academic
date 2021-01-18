@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: ✍🏼 Posts
 
 # View.
 #   1 = List
