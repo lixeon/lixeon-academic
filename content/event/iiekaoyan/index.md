@@ -31,7 +31,7 @@ image:
 links:
 url_code: ""
 url_pdf: ""
-url_slides: "slides/iiekaoyan/【2021】对话：计算机考研复试精准定位0day思维-2021信工所考研群讲座-李敬-20210207-slides.pdf"
+url_slides: "slides/iiekaoyan/fushi2021.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
@@ -49,7 +49,7 @@ url_video: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- example
+- iiekaoyan
 ---
 
 {{% callout note %}}
